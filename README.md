@@ -56,12 +56,12 @@ def decrypt(message, key):
 
 ## Usage Example
 
-text = 'mrttaqrhknsw ih puggrur'
+text = 'mrttaqrhknsw ih puggrur' 
 custom_key = 'happycoding'
 
-print(f'Encrypted text: {text}')
-print(f'Key: {custom_key}')
-decryption = decrypt(text, custom_key)
+print(f'Encrypted text: {text}') 
+print(f'Key: {custom_key}') 
+decryption = decrypt(text, custom_key) 
 print(f'Decrypted text: {decryption}')
 
 ---
