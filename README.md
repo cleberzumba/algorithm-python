@@ -1,7 +1,6 @@
 # Algorithm in Python
 
-This project implements the **Vigenère Cipher**, a polyalphabetic substitution algorithm that shifts letters in the alphabet based on a repeating key. 
-Although historically used for encryption, today it mainly serves as an educational exercise to practice programming logic.
+From Algorithm Studies in Python to Problem-Solving Skills. In my studies of algorithms and scientific computing in Python, I developed an algorithm that:
 
 ---
 
