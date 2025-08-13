@@ -80,6 +80,7 @@ Decrypted text: programming is awesome
 
 ## Concepts Practiced
 
+- Programming logic and problem-solving
 - Variables and functions.
 - Loops (for).
 - Conditional statements (if).
