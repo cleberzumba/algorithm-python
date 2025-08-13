@@ -1,4 +1,4 @@
-# Vigenère Cipher in Python
+# Algorithm in Python
 
 This project implements the **Vigenère Cipher**, a polyalphabetic substitution algorithm that shifts letters in the alphabet based on a repeating key. 
 Although historically used for encryption, today it mainly serves as an educational exercise to practice programming logic.
