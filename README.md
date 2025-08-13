@@ -1,4 +1,4 @@
-# Algorithm in Python
+# Programming Logic with Python
 
 From Algorithm Studies in Python to Problem-Solving Skills. In my studies of algorithms and scientific computing in Python, I developed an algorithm that:
 
