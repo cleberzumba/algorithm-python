@@ -50,7 +50,7 @@ def encrypt(message, key):
 
 def decrypt(message, key):
     return vigenere(message, key, -1)
-
+```
 
 ## Usage Example
 
