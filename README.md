@@ -1,11 +1,11 @@
-# 🔐 Vigenère Cipher in Python
+# Vigenère Cipher in Python
 
-This project implements the **Vigenère Cipher**, a polyalphabetic substitution algorithm that shifts letters in the alphabet based on a repeating key.  
+This project implements the **Vigenère Cipher**, a polyalphabetic substitution algorithm that shifts letters in the alphabet based on a repeating key. 
 Although historically used for encryption, today it mainly serves as an educational exercise to practice programming logic.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - Practice string manipulation.
 - Work with loops and conditionals.
@@ -14,7 +14,7 @@ Although historically used for encryption, today it mainly serves as an educatio
 
 ---
 
-## 🚀 How it Works
+## How it Works
 
 1. Takes an **encrypted message** and a **key**.
 2. Iterates through each character:
@@ -24,7 +24,7 @@ Although historically used for encryption, today it mainly serves as an educatio
 
 ---
 
-## 📂 Code Structure
+## Code Structure
 
 ```python
 def vigenere(message, key, direction=1):
@@ -51,4 +51,32 @@ def encrypt(message, key):
 
 def decrypt(message, key):
     return vigenere(message, key, -1)
+
+
+## Usage Example
+
+text = 'mrttaqrhknsw ih puggrur'
+custom_key = 'happycoding'
+
+print(f'Encrypted text: {text}')
+print(f'Key: {custom_key}')
+decryption = decrypt(text, custom_key)
+print(f'Decrypted text: {decryption}')
+
+# Output:
+
+Encrypted text: mrttaqrhknsw ih puggrur
+Key: happycoding
+Decrypted text: programming is awesome
+
+
+## Concepts Practiced
+
+- Variables and functions.
+- Loops (for).
+- Conditional statements (if).
+- Index mapping.
+- Modular arithmetic.
+
+
 
