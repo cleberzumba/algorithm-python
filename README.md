@@ -52,6 +52,8 @@ def decrypt(message, key):
     return vigenere(message, key, -1)
 ```
 
+---
+
 ## Usage Example
 
 text = 'mrttaqrhknsw ih puggrur'
@@ -62,12 +64,15 @@ print(f'Key: {custom_key}')
 decryption = decrypt(text, custom_key)
 print(f'Decrypted text: {decryption}')
 
-# Output:
+---
+
+## Output:
 
 Encrypted text: mrttaqrhknsw ih puggrur
 Key: happycoding
 Decrypted text: programming is awesome
 
+---
 
 ## Concepts Practiced
 
