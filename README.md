@@ -56,6 +56,7 @@ def decrypt(message, key):
 
 ## Usage Example
 
+```python
 text = 'mrttaqrhknsw ih puggrur' 
 custom_key = 'happycoding'
 
@@ -63,14 +64,17 @@ print(f'Encrypted text: {text}')
 print(f'Key: {custom_key}') 
 decryption = decrypt(text, custom_key) 
 print(f'Decrypted text: {decryption}')
+```
 
 ---
 
 ## Output:
 
+```python
 Encrypted text: mrttaqrhknsw ih puggrur
 Key: happycoding
 Decrypted text: programming is awesome
+```
 
 ---
 
