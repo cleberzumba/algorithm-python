@@ -91,7 +91,7 @@ Decrypted text: programming is awesome
 
 ## Conclusion
 
-Although simple, this project was an excellent exercise to strengthen analytical thinking, logical reasoning, and problem decomposition skills, while working with loops, conditionals, string manipulation, and modular arithmetic.
+Although simple, this algorithm was an excellent exercise to strengthen analytical thinking, logical reasoning, and problem decomposition skills, while working with loops, conditionals, string manipulation, and modular arithmetic.
 
 
 
